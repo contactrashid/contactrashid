@@ -1,7 +1,6 @@
-<h1 align="center">Hi welcome back </h1>
-<img src="https://camo.githubusercontent.com/6cb76659e21196f3c624c15749dbb846eeed03e52f9c3b290b38756759d30f63/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d33352670617573653d313030302663656e7465723d74727565267643656e7465723d747275652672616e646f6d3d66616c73652677696474683d343335266865696768743d3630266c696e65733d48692532432b49276d2b536168696c2b417461686172" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=35&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=435&amp;height=60&amp;lines=Hi%2C+I'm+rashid+siddiqui" style="max-width: 100%;">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=contactrashid&label=Profile%20views&color=0e75b6&style=flat" alt="contactrashid" /> </p>
+<h1 align="center">Hi welcome  </h1>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=contactrashid&label=Profile%20views&color=0e75b6&style=flat" alt="contactrashid" /> </p>
 
 - 🌱 I’m currently learning **Python Full stack**
 
