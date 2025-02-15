@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=contactrashid&label=Profile%20views&color=0e75b6&style=flat" alt="contactrashid" /> </p>
 
 - 🌱 I’m currently learning **Python Full stack**
-
+      I’m looking to collaborate on projects that integrate my interests and skills.
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **contactrashid73@gmail.com**
