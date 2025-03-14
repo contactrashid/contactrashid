@@ -9,7 +9,7 @@
 - 📫 How to reach me **contactrashid73@gmail.com**
 <h2 class="heading-element" dir="auto">🌐 Socials:</h2>
 <a href="https://linkedin.com/in/Rashid Siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashid siddiqui" height="30" width="40" /></a>
-<a href="https://vercel.com/rashid-siddiqui-s-projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashid siddiqui" height="30" width="40" /></a>
+<a href="https://vercel.com/rashid-siddiqui-s-projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vercel-alt.svg" alt="rashid siddiqui" height="30" width="40" /></a>
 <a href="https://instagram.com/rashidibntahzeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashidibntahzeeb" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/contactrashid73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="contactrashid73" height="30" width="40" /></a>
 <h2 class="heading-element" dir="auto">💻 Tech Stack:</h2>
