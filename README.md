@@ -3,9 +3,9 @@
   <h1 align="left">Hi,I'm rashid siddiqui  </h1>
   <img src="https://komarev.com/ghpvc/?username=contactrashid&label=Profile%20views&color=0e75b6&style=flat" alt="contactrashid" /> </p>
 
-- 🌱 I’m currently learning **Python Full stack**
+- 🌱 I’m currently learning **MySql**
 - 💻 I’m looking to collaborate on projects that integrate my interests and skills
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python**
 - 📫 How to reach me **contactrashid73@gmail.com**
 <h2 class="heading-element" dir="auto">🌐 Socials:</h2>
 <a href="https://linkedin.com/in/Rashid Siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashid siddiqui" height="30" width="40" /></a>
